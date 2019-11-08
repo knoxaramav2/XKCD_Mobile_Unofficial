@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">XKCD</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">XKCD Unofficial</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="archive">Archive</string>
+    <string name="what_if">What If?</string>
+    <string name="blag">Blag</string>
+    <string name="store">Store</string>
+    <string name="about">About</string>
+    <string name="feed">Feed</string>
+    <string name="email">Email</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="communicate">Communicate</string>
+</resources>
